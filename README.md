@@ -34,8 +34,31 @@ positivamente em qualquer ambiente que estou inserido.
 
 ---
 
-### 🎯 Objetivos e Pretensões
+### ✅ Objetivos Pessoais
 ---
+1- Desenvolver habilidades técnicas sólidas em áreas como programação, redes, segurança da informação, banco de dados e computação em nuvem.
+
+2- Manter-se atualizado com as tendências tecnológicas, acompanhando inovações como inteligência artificial, machine learning, blockchain e cibersegurança.
+
+3- Aprimorar habilidades interpessoais, como comunicação, trabalho em equipe e resolução de problemas, fundamentais para atuar em ambientes colaborativos de TI.
+
+4- Obter certificações relevantes (ex: AWS, Cisco, Microsoft, CompTIA) para validar conhecimentos técnicos.
+
+5- Equilibrar crescimento profissional com qualidade de vida, buscando ambientes de trabalho saudáveis e com cultura organizacional alinhada aos valores pessoais.
+
+---
+### 🎯 Pretensões Profissionais
+---
+1- Atuar em empresas de tecnologia de ponta ou startups inovadoras, contribuindo com soluções criativas e eficazes.
+
+2- Construir uma carreira sólida como desenvolvedor de software, engenheiro de dados, analista de sistemas ou especialista em segurança cibernética.
+
+3- Assumir cargos de liderança técnica, como arquiteto de soluções ou gerente de TI, após experiência consolidada.
+
+4- Participar de projetos que tenham impacto social, usando a tecnologia para resolver problemas reais e promover inclusão digital.
+
+5- Conquistar estabilidade financeira e reconhecimento profissional, por meio de entregas de alto valor e desenvolvimento contínuo.
+
 
 ---
 ### 📈 Estatísticas GitHub
