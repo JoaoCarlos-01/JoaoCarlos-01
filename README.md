@@ -64,5 +64,4 @@ positivamente em qualquer ambiente que estou inserido.
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlos-01&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlos-01&layout=compact&theme=tokyonight"/>
 </p>
